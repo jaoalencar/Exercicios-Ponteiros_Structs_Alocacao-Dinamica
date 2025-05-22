@@ -32,7 +32,6 @@ int main(){
     cout<<"Nome do Vitor: "<<Vitor.nome;
 
 
-delete[] pont_aluno;
 getchar();
 return 0;
 }
